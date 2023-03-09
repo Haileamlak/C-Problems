@@ -1,0 +1,6 @@
+Student Name  Student ID  Programming 2     Calculus I     L. Algebra   D. Electronics     Statistics  Average Rank
+      tolosa      4523             2             3             1             1             1            1.6	  1
+       aster      4567             1             1             1             1             1              1	  2
+      kebede      4568             1             1             1             1             1              1	  2
+       alemu      2345             1             1             1             1             1              1	  2
+       abebe      1234             1             0             1             1             1            0.8	  5
